@@ -14,3 +14,7 @@ quaternions.hpp:
 
 test_funcs.cpp:
   - Unit tests for all methods
+
+
+Quaternion_Notes.pdf:
+  - Contains essential quaternion mechanics that I compiled. 
