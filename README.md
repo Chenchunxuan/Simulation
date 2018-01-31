@@ -6,9 +6,11 @@ matrix.hpp:
   - Matrix wrapper class that allows for MATLAB like matrix operations and chaining. 
   - Derived from the C++ array class. 
 
+
 quaternions.hpp:
   - Quaternion wrapper class for performing operations between quaternion objects
   - Derived from matrix.hpp
+
 
 test_funcs.cpp:
   - Unit tests for all methods
